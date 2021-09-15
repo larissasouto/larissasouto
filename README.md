@@ -2,7 +2,7 @@
 
 **I'm Larissa Souto Del Rio 👩🏻‍💻🤗**. 
 
-I'm currently a student of websites development, mobile apps and APIs.
+I'm currently an IT Analyst who works with websites development, mobile apps and APIs.
 
 :computer: Web front-end development with **ReactJs**. <br/>
 :satellite: API with **NodeJs**. <br/>
