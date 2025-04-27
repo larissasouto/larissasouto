@@ -1,35 +1,31 @@
-### Heeloo you all 👋👋
+### Hello everyone! 👋👩🏻‍💻
 
-**I'm Larissa Souto Del Rio 👩🏻‍💻🤗**. 
+**I'm Larissa Souto Del Rio** — a passionate **Frontend Developer** specializing in **Design Systems**, modern web technologies, and user-centric solutions.
 
-I'm currently an IT Analyst who works with websites development, mobile apps and APIs.
+💻 I have over **4 years of experience** developing responsive web applications, working with clients from diverse industries. I'm skilled in building scalable and maintainable interfaces using:
+- **React.js** | **TypeScript** | **JavaScript**
+- **Web Components** | **HTML5** | **CSS3** | **SCSS**
+- Basic **Node.js** for API integrations
+- UI/UX best practices & Agile methodologies
 
-:computer: Web front-end development with **ReactJs**. <br/>
-:satellite: API with **NodeJs**. <br/>
-:rocket: I’m looking to collaborate on any projects that help me to develop my skills. <br/>
+🚀 I'm always open to collaborating on innovative projects that challenge my skills and contribute to impactful solutions — especially those involving **Design Systems**, **UI/UX improvements**, or modern frontend architecture.
 
-I have used it in my learning projects: 
+🛠️ **Tech Stack Highlights:**
 
 <p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="35px"/>
 &nbsp;  
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="35px"/>
 &nbsp;
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" height="35px"/>
-&nbsp;
-<img src="https://seeklogo.com/images/F/figma-logo-E4E21D3AEA-seeklogo.com.png" height="35px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="35px"/>
 &nbsp;
 </p>
 
-<br/>
+---
 
-Where you can find me? 
+### 📫 Where to find me:
 
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larissaasouto/) 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-souto/) 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/larissasouto)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/larissasouto)
 
-<!---
-larissasouto/larissasouto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
